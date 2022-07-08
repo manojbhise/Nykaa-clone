@@ -25,15 +25,14 @@ Live app link: https://nykaa-clone-iota.vercel.app/
 3) Sorting on Product page
 4) Seller Page
 
-
-## Deploy Locally
-
 ## Collaborators
 * [Manoj Bhise](https://github.com/manojbhise)
 * [Saraswati Panda](https://github.com/Saraswati121)
 * [Nagesh Kumawat](https://github.com/nagesh199)
 * [Harapriya Sahu](https://github.com/Harapriyasahu)
 * [Rajendra Nali](https://github.com/rajendranali)
+
+## Deploy Locally
 
 ### Steps to deploy
 ```
